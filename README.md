@@ -1,6 +1,6 @@
 # Pygame Maze Solver - Recursive Backtracking Visualization
 
-A Python-based visualization of the **Recursive Backtracking (Depth-First Search)** algorithm. This tool not only solves mazes but also allows users to **custom-design their own maze layouts** easily.
+A Python-based visualization of the **Recursive Backtracking** algorithm. This tool not only solves mazes but also allows users to **custom-design their own maze layouts** easily.
 
 ## 🌟 Key Features
 - **Customizable Maze Design**: Create your own maze by simply editing a text-based grid.

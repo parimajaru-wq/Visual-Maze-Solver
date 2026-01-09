@@ -1,3 +1,5 @@
+<img width="1000" height="588" alt="ภาพถ่ายหน้าจอ 2569-01-09 เวลา 14 37 25" src="https://github.com/user-attachments/assets/f873a13d-6a46-489a-852a-f8847f7c1af7" />
+
 # Visual Maze Solver
 
 A Python 2D visualization of the **Recursive Backtracking** algorithm. This tool demonstrates how a computer "thinks" while navigating through a maze and allows users to **custom-design their own layouts**.
@@ -15,5 +17,5 @@ To run this project, you need to have Python and the `Pygame` library installed.
 ```bash
 pip install pygame
 
-<img width="1000" height="588" alt="ภาพถ่ายหน้าจอ 2569-01-09 เวลา 14 37 25" src="https://github.com/user-attachments/assets/f873a13d-6a46-489a-852a-f8847f7c1af7" />
+
 

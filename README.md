@@ -1,11 +1,19 @@
-# Pygame Maze Solver - Recursive Backtracking Visualization
+# Visual Maze Solver
 
-A Python-based visualization of the **Recursive Backtracking** algorithm. This tool not only solves mazes but also allows users to **custom-design their own maze layouts** easily.
+A Python-based visualization of the **Recursive Backtracking** algorithm. This tool demonstrates how a computer "thinks" while navigating through a maze and allows users to **custom-design their own layouts**.
 
 ## 🌟 Key Features
-- **Customizable Maze Design**: Create your own maze by simply editing a text-based grid.
-- **Auto-Detection**: Automatically identifies the Start (`s`) and Exit (`e`) points.
-- **Backtracking Visualization**: Watch the algorithm explore paths and "erase" its trail when it hits a dead end.
+- **Algorithm Visualization**: Real-time display of path exploration and backtracking.
+- **Customizable Maze Design**: Design your own maze by simply editing a text grid in the source code.
+- **Auto-Detection**: Dynamically finds the Start (`s`) and Exit (`e`) points.
+
+## 🛠 Prerequisites & Installation
+Ensure you have **Python 3.x** installed. This project requires the `pygame` library for visualization.
+
+### 1. Install Dependencies
+Open your terminal or command prompt and run:
+```bash
+pip install pygame
 
 ## 🛠 How to Customize Your Maze
 You can decorate and design your own maze by modifying the `scr` list in `main.py`. Use the following symbols:

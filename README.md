@@ -1,5 +1,5 @@
+<img width="987" height="542" alt="ภาพถ่ายหน้าจอ 2569-01-09 เวลา 15 42 29" src="https://github.com/user-attachments/assets/37333afc-ef02-4a53-94e9-df85bd95f970" />
 
-![Uploading ภาพถ่ายหน้าจอ 2569-01-09 เวลา 15.40.39.png…]()
 
 # Visual Maze Solver
 

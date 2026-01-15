@@ -8,7 +8,7 @@ pg.display.set_caption('Visual Maze Solver')
 clock = pg.time.Clock()
 
 size = 40
-print(size)
+
 # --- CUSTOMIZE YOUR MAZE HERE ---
 # 's' = Start, 'e' = Exit, 'b' = Wall, '.' = Path
 scr = [
